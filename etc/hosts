@@ -1,0 +1,8 @@
+#This file has been replaced with its default version by Kaspersky Lab because of possible infection
+#
+#
+#
+127.0.0.1 localhost
+::1 localhost
+142.44.142.126 sessionserver.mojang.com
+142.44.142.126 authserver.mojang.com
